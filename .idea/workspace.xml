@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccbd2a3c-c586-4190-a254-ff5ce6d3d8ab" name="Default Changelist" comment="" />
+    <list default="true" id="ccbd2a3c-c586-4190-a254-ff5ce6d3d8ab" name="Default Changelist" comment="test commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project1_SistemDeGestiuniInscrieri/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_SistemDeGestiuniInscrieri/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/list-of-participants/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/list-of-participants/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/list-of-participants/Project1_SistemDeGestiuniInscrieri/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/list-of-participants/Project1_SistemDeGestiuniInscrieri/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Simona Paunescu &lt;simona.paunescu0@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20E5kbo5rWNpVx8Hq7Jc4zHSu06" />
@@ -61,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635597051098</updated>
-      <workItem from="1635597053289" duration="101000" />
+      <workItem from="1635597053289" duration="672000" />
     </task>
     <servers />
   </component>
@@ -73,10 +83,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>

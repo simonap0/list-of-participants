@@ -15,7 +15,7 @@ public class Main {
 
 
         System.out.println();
-        System.out.println("Asteapta comanda: (help - Afiseaza lista de comenzi...)");
+        System.out.println("Asteapta comanda: (help - Afiseaza lista de comenzi)");
         boolean quit = false;
 
         while (!quit) {
