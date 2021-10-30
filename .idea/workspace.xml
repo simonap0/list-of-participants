@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccbd2a3c-c586-4190-a254-ff5ce6d3d8ab" name="Default Changelist" comment="test commit">
+    <list default="true" id="ccbd2a3c-c586-4190-a254-ff5ce6d3d8ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1_SistemDeGestiuniInscrieri/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project1_SistemDeGestiuniInscrieri/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/list-of-participants/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/list-of-participants/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/list-of-participants/Project1_SistemDeGestiuniInscrieri/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/list-of-participants/Project1_SistemDeGestiuniInscrieri/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../share-surprises" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635597051098</updated>
-      <workItem from="1635597053289" duration="672000" />
+      <workItem from="1635597053289" duration="1056000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1635597753982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635597753982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
